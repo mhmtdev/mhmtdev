@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Arıkan</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmtdev" alt="mhmtdev" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmtdev&theme=gitdimmed" alt="mhmtdev" /></a> </p>
 
 - 🔭 I’m currently working on [Education Template](https://github.com/mhmtdev/education-nextjs)
 
