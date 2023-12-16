@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmtdev&theme=gitdimmed" alt="mhmtdev" /></a> </p>
 
-- 🔭 I’m currently working on [Education Template](https://github.com/mhmtdev/education-nextjs)
+- 🔭 I’m currently working on [Mobile](https://github.com/mhmtdev/react-native-airbnb-clone)
 
-- 🌱 I’m currently learning **React, Next.js, Node.js, Flutter**
+- 🌱 I’m currently learning **React, Next.js, Node.js, React Native, Swift**
 
 - 👨‍💻 All of my projects are available at [https://mhmt.dev](https://mhmt.dev)
 
