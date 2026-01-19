@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Node.js, React Native, Swift**
 
-- 👨‍💻 All of my projects are available at [https://mhmt.dev](https://mehmetarikan.com.tr)
+- 👨‍💻 All of my projects are available at [https://mehmetarikan.com.tr](https://mehmetarikan.com.tr)
 
 - 📫 How to reach me **mhmtarikan@hotmail.com**
 
